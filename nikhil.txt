@@ -1,0 +1,25 @@
+1.git config --global user.name "nikhil7761"
+.....entre your username
+
+2.git config --global user.email "nikhilvargude1405@gmail.com"
+.....entre your email
+
+3.git clone [http]
+....copy http from git-hub
+
+4.git init 
+....to become a part of git woking diretory
+ 
+5. git add ./ git add abc.txt / git add --a
+... file add to staging directory(area)
+
+6.git commit -m "today date 25-01-2023"
+..commit -m "Final"
+
+6.git diff__________
+
+.....it is comparing the staging area and working directory and showing the difference between them.
+
+
+
+
